@@ -6,7 +6,9 @@ def hello_world():
   
   return variable_name
 
+'''
 user_input=input("Enter a number: ")
 
 if(user_input=="1"):
   print(hello_world())
+'''
