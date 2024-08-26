@@ -3,7 +3,7 @@
     {
       "name": "Test Case 1",
       "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
+      "run": "pytest test_hello",
       "input": "",
       "output": "",
       "comparison": "exact",
